@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+title: "Interpretable Multi-Source Machine Learning for Urban Classification in Data-Scarce Regions"
+
+message: "If you use this repository, please cite the accompanying paper."
+
+authors:
+  - family-names: "Ugege"
+    given-names: "Peter"
+
+repository-code: "https://github.com/YOUR_USERNAME/interpretable-urban-classification"
+
+license: MIT
+
+keywords:
+  - Machine Learning
+  - Urban Classification
+  - Remote Sensing
+  - Explainable AI
+  - SHAP
+  - Deep Learning Indaba

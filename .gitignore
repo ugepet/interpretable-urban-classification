@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+.env
+.venv
+venv/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python cache
+.pytest_cache/
+
+# Build artifacts
+*.log
+
+# Temporary files
+*.tmp
+
+# Results (keep folder, ignore generated files)
+results/*
+!results/.gitkeep

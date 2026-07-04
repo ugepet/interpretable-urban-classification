@@ -1,0 +1,29 @@
+name: geoenv
+
+channels:
+  - conda-forge
+  - pytorch
+
+dependencies:
+  - python=3.11
+
+  - numpy
+  - pandas
+  - matplotlib
+
+  - scikit-learn
+  - xgboost
+
+  - pytorch
+  - torchvision
+
+  - rasterio
+
+  - shap
+
+  - joblib
+
+  - notebook
+  - jupyterlab
+
+  - pip

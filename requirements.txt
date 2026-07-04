@@ -1,0 +1,13 @@
+numpy>=1.26
+pandas>=2.2
+matplotlib>=3.9
+scikit-learn>=1.5
+xgboost>=2.1
+torch>=2.5
+torchvision>=0.20
+shap>=0.46
+rasterio>=1.4
+joblib>=1.4
+jupyterlab>=4.2
+notebook>=7.2
+ipykernel>=6.29
