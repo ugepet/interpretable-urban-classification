@@ -2,6 +2,9 @@
 
 [![Python](https://img.shields.io/badge/Python-3.11-blue.svg)]()
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)]()
+## Conference Poster
+
+The final conference poster presented at **Deep Learning Indaba 2026** is available in the `poster/` directory.
 
 ## Overview
 
